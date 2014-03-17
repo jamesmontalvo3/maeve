@@ -1,0 +1,19 @@
+{
+  "title" : "Intro",
+  "author" : "James",
+  "date" : "2014-03-16"
+}
+
+<<<start>>>
+Welcome, Maeve!
+===============
+
+## 6am: Headed to the Hospital for Induction
+We're headed to the hospital on Monday, March 17 (St. Patrick's Day). Can't
+wait for Maeve to join our family!
+
+## Test
+The following is a test photo from our honeymoon...this is just to test the
+site out and will be removed once Maeve-y stuff starts rolling in...
+
+[<img src="photos/thumb_20130809_121816.jpg">](photos/lores_20130809_121816.jpg)
