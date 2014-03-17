@@ -1,4 +1,11 @@
-<?php
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maeve</title>
+	<link rel="stylesheet" type="text/css" href="common.css" />
+</head>
+<body>
+<div id="container"><?php
 
 require_once "parsedown/Parsedown.php";
 $parsedown = new Parsedown();
@@ -21,3 +28,6 @@ foreach($posts as $filename) {
 	}
 }
 
+?></div>
+</body>
+</html>
