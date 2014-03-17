@@ -10,6 +10,7 @@ body {
 
 #container {
   margin: 60px auto;
+  padding: 10px 30px;
   width: 768px;
-  background-color: white;
+  background-color: #ECEDDC;
 }
